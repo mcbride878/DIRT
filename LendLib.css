@@ -1,0 +1,26 @@
+html, body {
+	background-color: #8ec1da;
+}
+
+#newCat {
+  max-width: 250px;
+}
+
+.lending_item {
+  font-size:1.8rem;
+}
+
+#btnAddItem span{
+  color:#5cb85c;
+  font-size:3rem;
+}
+
+.lendee {
+  margin-right:100px;
+}
+/*.madewith img{
+  width:15rem;
+}*/
+.twitter {
+	margin-left: 400px;
+}
